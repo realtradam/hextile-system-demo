@@ -1,0 +1,9 @@
+# HexTile System Demo
+
+Simple demo showing the following:
+- Creating a 2D array of hex tiles
+- Rendering the array of hex tiles in proper order
+- Hit detection of when a mouse is over a hex
+- Being able to get and modify adjacent tiles
+
+Mouse over the the tiles to see the magic.
